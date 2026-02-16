@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Futura Free",
+  "base_artist": "Frank Ocean",
+  "createdAt": "2026-02-16T11:55:49.134014Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Futura Free",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/01_Futura_Free_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Futura Free",
+      "artist": "Frank Ocean",
+      "has_synced": false,
+      "path": "select/02_Futura_Free_Frank_Ocean.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Futura Free",
+      "artist": "Ocean, Frank",
+      "has_synced": true,
+      "path": "select/03_Futura_Free_Ocean,_Frank.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Futura Free",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/04_Futura_Free_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Futura Free [Explicit]",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/05_Futura_Free_[Explicit]_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Futura Free [Feat. Ryan Breaux, Sage Elsesser]",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/06_Futura_Free_[Feat._Ryan_Breaux,_Sage_Elsesser]_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Frank Ocean - Futura Free",
+      "artist": "Blonded",
+      "has_synced": true,
+      "path": "select/07_Frank_Ocean_-_Futura_Free_Blonded.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Explicit Futura Free",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/08_Explicit_Futura_Free_Frank_Ocean.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Futura Free (Paused)",
+      "artist": "Frank Ocean",
+      "has_synced": true,
+      "path": "select/09_Futura_Free_(Paused)_Frank_Ocean.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Futura Free",
+      "artist": "Frank Ocean",
+      "has_synced": false,
+      "path": "select/pl_01_Futura_Free_Frank_Ocean.txt"
+    }
+  ]
+}
